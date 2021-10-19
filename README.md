@@ -4,11 +4,11 @@
 Installing a new hard drive into your desktop may seem daunting, it is actually quite simple. This guide will give you step by step instructions on how to install a brand new hard drive into a pre-existing desktop. 
 
 ## What you need
-•	A working desktop
-•	A new hard drive
-•	Available hard drive tray
-•	SATA cable
-•	Optional: mounting bracket
+- A working desktop
+- A new hard drive
+- Available hard drive tray
+- SATA cable
+- Optional: mounting bracket
 
 ## Installing the hard drive to your computer:
 1.	Turn off your desktop. Toggle the power switch on the desktop off, and then unplug all cables and wires connected to it.
