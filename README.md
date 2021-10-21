@@ -1,6 +1,6 @@
 # Adding a New Hard Drive
 
-Installing a new hard drive into your desktop may seem daunting, it is actually quite simple. This guide will give you step by step instructions on how to install a brand new hard drive into a pre-existing desktop. 
+While adding a new hard drive into your desktop may seem daunting, it is actually quite simple. This short guide will give you step by step instructions on how to install a brand new hard drive into a pre-existing desktop. 
 
 ## What you need
 - A working desktop
@@ -15,15 +15,15 @@ Installing a new hard drive into your desktop may seem daunting, it is actually 
 3.	Remove an empty hard drive tray.
 4.	Install your new hard drive onto the hard drive tray.
     - If you have a mounting bracket, install the hard drive onto the mounting bracket first, then install the mounting bracket onto the hard drive tray.
-6.	Place the hard drive tray with the new hard drive back in.
-7.	Find your desktop’s SATA power cable and connect it to your new hard drive. 
-8.	Connect your SATA cable to the motherboard and new hard drive’s SATA ports. Make sure you have enough space to put back the side covers.
-9.	Put the side covers back onto the computer case. Ensure they are secure.
-10.	Plug back in the power and peripheral cables.
+5.	Place the hard drive tray with the new hard drive back in.
+6.	Find your desktop’s SATA power cable and connect it to your new hard drive. 
+7.	Connect your SATA cable to the motherboard and new hard drive’s SATA ports. Make sure you have enough space to put back the side covers.
+8.	Put the side covers back onto the computer case. Ensure they are secure.
+9.	Plug back in the power and peripheral cables.
+
 
 ## Setting up the hard drive:
-After installing the new hard drive, you still need to format and partition the disk before using it. How to do so will vary based on your desktop’s operating system. 
-Below is a quick-start guide if you are using Windows.
+After installing the new hard drive, you will need to format and partition the disk before you can use it. How to do so will vary based on your desktop’s operating system. 
 
 ###   Windows
 1.	Open the control panel. 
