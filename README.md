@@ -14,7 +14,7 @@ While adding a new hard drive into your desktop may seem daunting, it is actuall
 2.	Remove the desktop case’s side covers. You should be able to see the machine’s motherboard and hard drive(s).
 3.	Remove an empty hard drive tray.
 4.	Install your new hard drive onto the hard drive tray.
-    - If you have a mounting bracket, install the hard drive onto the mounting bracket first, then install the mounting bracket onto the hard drive tray.
+    - If you have a mounting bracket, install the hard drive onto the mounting bracket first before installing the mounting bracket onto the hard drive tray.
 5.	Place the hard drive tray with the new hard drive back in.
 6.	Find your desktop’s SATA power cable and connect it to your new hard drive. 
 7.	Connect your SATA cable to the motherboard and new hard drive’s SATA ports. Make sure you have enough space to put back the side covers.
