@@ -1,6 +1,5 @@
 # Adding a New Hard Drive
 
-## Overview 
 Installing a new hard drive into your desktop may seem daunting, it is actually quite simple. This guide will give you step by step instructions on how to install a brand new hard drive into a pre-existing desktop. 
 
 ## What you need
